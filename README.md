@@ -3,7 +3,8 @@
 **A visual prototype of a live feed of problems founders and developers say out loud,
 so builders can find them and fix them.**
 
-**▶ Live demo:** https://gowthamkumar09.github.io/opportunity-lab-itch-feed/
+**▶ Live demo:** https://gowthamkumar09.github.io/opportunity-lab-itch-feed/opportunity-lab-itch-feed.html
+
 *(update this link if you name the repo differently)*
 
 > **Demo only.** The feed, counters and quotes are **sample data**. The sign-up box
