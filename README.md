@@ -5,8 +5,7 @@ so builders can find them and fix them.**
 
 **▶ Live demo:** https://gowthamkumar09.github.io/opportunity-lab-itch-feed/
 
-*(update this link if you name the repo differently)*
-
+<img src="img.png" alt="Description of the image">
 > **Demo only.** The feed, counters and quotes are **sample data**. The sign-up box
 > stores nothing. No social media data is collected or connected yet.
 
